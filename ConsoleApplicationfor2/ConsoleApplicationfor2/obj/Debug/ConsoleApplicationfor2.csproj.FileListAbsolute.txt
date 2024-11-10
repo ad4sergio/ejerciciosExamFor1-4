@@ -1,0 +1,5 @@
+D:\ciclosrepaso\ConsoleApplicationfor2\ConsoleApplicationfor2\bin\Debug\ConsoleApplicationfor2.exe.config
+D:\ciclosrepaso\ConsoleApplicationfor2\ConsoleApplicationfor2\bin\Debug\ConsoleApplicationfor2.exe
+D:\ciclosrepaso\ConsoleApplicationfor2\ConsoleApplicationfor2\bin\Debug\ConsoleApplicationfor2.pdb
+D:\ciclosrepaso\ConsoleApplicationfor2\ConsoleApplicationfor2\obj\Debug\ConsoleApplicationfor2.exe
+D:\ciclosrepaso\ConsoleApplicationfor2\ConsoleApplicationfor2\obj\Debug\ConsoleApplicationfor2.pdb
